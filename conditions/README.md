@@ -8,6 +8,7 @@ Welcome to the **C++ Conditional Statements** repository! This guide will walk y
   - [Introduction](#introduction)
   - [Types of Conditional Statements](#types-of-conditional-statements)
     - [1. If Statement](#1-if-statement)
+    - [2. If-Else Statement](#2-if-else-statement)
 
 ---
 
@@ -34,3 +35,5 @@ int main() {
 
     return 0;
 }
+
+### 2. If-Else Statement
