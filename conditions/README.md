@@ -38,6 +38,7 @@ int main() {
 ```
 
 ### 2. If-Else Statement
+Handles two possibilities:
 ```cpp
 #include <iostream>
 using namespace std;
@@ -54,3 +55,5 @@ int main() {
     return 0;
 }
 ```
+Explanation: Executes one block if the condition is true and another if false.
+
