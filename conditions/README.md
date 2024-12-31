@@ -38,3 +38,19 @@ int main() {
 ```
 
 ### 2. If-Else Statement
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int age = 16;
+
+    if (age >= 18) {
+        cout << "You are eligible to vote!" << endl;
+    } else {
+        cout << "You are not eligible to vote yet." << endl;
+    }
+
+    return 0;
+}
+```
