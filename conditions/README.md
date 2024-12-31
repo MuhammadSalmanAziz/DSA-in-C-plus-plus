@@ -36,6 +36,7 @@ int main() {
     return 0;
 }
 ```
+**Explanation**: Executes the block if the condition age >= 18 is true.
 
 ### 2. If-Else Statement
 Handles two possibilities:
