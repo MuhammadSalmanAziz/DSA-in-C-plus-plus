@@ -8,6 +8,7 @@ Welcome to the **C++ Conditional Statements** repository! This guide will walk y
   - [Introduction](#introduction)
   - [Types of Conditional Statements](#types-of-conditional-statements)
     - [1. If Statement](#1-if-statement)
+      - [Explanation](#explanation)
     - [2. If-Else Statement](#2-if-else-statement)
 
 ---
@@ -36,7 +37,8 @@ int main() {
     return 0;
 }
 ```
-**Explanation**: Executes the block if the condition age >= 18 is true.
+#### Explanation
+Executes the block if the condition age >= 18 is true.
 
 ### 2. If-Else Statement
 Handles two possibilities:
