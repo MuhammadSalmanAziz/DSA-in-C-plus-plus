@@ -13,6 +13,8 @@ Welcome to the **C++ Conditional Statements** repository! This guide will walk y
       - [Explanation:](#explanation-1)
     - [3. Else-If Ladder](#3-else-if-ladder)
       - [Explanation:](#explanation-2)
+    - [4. Nested If Statement](#4-nested-if-statement)
+      - [Explanation:](#explanation-3)
 
 ---
 
@@ -89,5 +91,29 @@ int main() {
 
 #### Explanation: 
 Evaluates conditions from top to bottom and executes the first true block.
+
+### 4. Nested If Statement
+Conditions within conditions:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num = 10;
+
+    if (num > 0) {
+        if (num % 2 == 0) {
+            cout << "The number is positive and even." << endl;
+        }
+    }
+
+    return 0;
+}
+```
+#### Explanation: 
+Executes the inner block only if the outer condition is true.
+
+
 
 
