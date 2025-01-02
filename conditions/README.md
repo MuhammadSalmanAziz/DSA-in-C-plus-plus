@@ -10,7 +10,9 @@ Welcome to the **C++ Conditional Statements** repository! This guide will walk y
     - [1. If Statement](#1-if-statement)
       - [Explanation](#explanation)
     - [2. If-Else Statement](#2-if-else-statement)
+      - [Explanation:](#explanation-1)
     - [3. Else-If Ladder](#3-else-if-ladder)
+      - [Explanation:](#explanation-2)
 
 ---
 
@@ -59,7 +61,8 @@ int main() {
     return 0;
 }
 ```
-Explanation: Executes one block if the condition is true and another if false.
+#### Explanation: 
+Executes one block if the condition is true and another if false.
 
 ### 3. Else-If Ladder
 Checks multiple conditions sequentially:
@@ -83,5 +86,8 @@ int main() {
     return 0;
 }
 ```
+
+#### Explanation: 
+Evaluates conditions from top to bottom and executes the first true block.
 
 
