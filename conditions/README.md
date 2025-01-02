@@ -10,6 +10,7 @@ Welcome to the **C++ Conditional Statements** repository! This guide will walk y
     - [1. If Statement](#1-if-statement)
       - [Explanation](#explanation)
     - [2. If-Else Statement](#2-if-else-statement)
+    - [3. Else-If Ladder](#3-else-if-ladder)
 
 ---
 
@@ -59,4 +60,28 @@ int main() {
 }
 ```
 Explanation: Executes one block if the condition is true and another if false.
+
+### 3. Else-If Ladder
+Checks multiple conditions sequentially:
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int score = 85;
+
+    if (score >= 90) {
+        cout << "Grade: A" << endl;
+    } else if (score >= 80) {
+        cout << "Grade: B" << endl;
+    } else if (score >= 70) {
+        cout << "Grade: C" << endl;
+    } else {
+        cout << "Grade: F" << endl;
+    }
+
+    return 0;
+}
+```
+
 
