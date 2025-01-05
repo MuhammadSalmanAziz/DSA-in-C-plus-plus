@@ -21,6 +21,10 @@ Get started by watching the detailed explanation in this video:
   - [Binary to Decimal Conversion](#binary-to-decimal-conversion)
     - [How It Works:](#how-it-works)
     - [Example:](#example)
+  - [Decimal to Binary Conversion](#decimal-to-binary-conversion)
+    - [How It Works:](#how-it-works-1)
+    - [Example:](#example-1)
+  - [Binary: 1010](#binary-1010)
 
 ---
 
@@ -37,3 +41,24 @@ Each digit in a binary number represents a power of 2, starting from 2⁰ on the
 
 ### Example:
 Convert binary `1010` to decimal:
+
+---
+
+## Decimal to Binary Conversion
+
+### How It Works:
+To convert a decimal number to binary:
+1. Divide the decimal number by 2.
+2. Record the remainder.
+3. Repeat until the quotient is 0.
+4. Write the remainders in reverse order.
+
+### Example:
+Convert decimal `10` to binary:
+10 ÷ 2 = 5, Remainder = 0
+5 ÷ 2 = 2, Remainder = 1
+2 ÷ 2 = 1, Remainder = 0
+1 ÷ 2 = 0, Remainder = 1
+
+Binary: 1010
+---
