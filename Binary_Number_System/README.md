@@ -55,10 +55,10 @@ To convert a decimal number to binary:
 
 ### Example:
 Convert decimal `10` to binary:
-10 ÷ 2 = 5, Remainder = 0
-5 ÷ 2 = 2, Remainder = 1
-2 ÷ 2 = 1, Remainder = 0
-1 ÷ 2 = 0, Remainder = 1
+- 10 ÷ 2 = 5, Remainder = 0
+- 5 ÷ 2 = 2, Remainder = 1
+- 2 ÷ 2 = 1, Remainder = 0
+- 1 ÷ 2 = 0, Remainder = 1
 
 Binary: 1010
 ---
