@@ -25,6 +25,15 @@ Get started by watching the detailed explanation in this video:
     - [How It Works:](#how-it-works-1)
     - [Example:](#example-1)
   - [Binary: 1010](#binary-1010)
+  - [1's Complement](#1s-complement)
+    - [Example:](#example-2)
+  - [2's Complement](#2s-complement)
+    - [Example:](#example-3)
+  - [Why Learn Binary Numbers?](#why-learn-binary-numbers)
+  - [Repository Contents](#repository-contents)
+  - [Contributing](#contributing)
+  - [Acknowledgments](#acknowledgments)
+    - [⭐ Don’t forget to star this repository if you found it helpful!](#-dont-forget-to-star-this-repository-if-you-found-it-helpful)
 
 ---
 
@@ -62,3 +71,58 @@ Convert decimal `10` to binary:
 
 Binary: 1010
 ---
+
+## 1's Complement
+
+1's complement is obtained by flipping all the bits in a binary number:
+- Change `0` to `1` and `1` to `0`.
+
+### Example:
+Binary `1010` → 1's Complement: `0101`
+
+---
+
+## 2's Complement
+
+2's complement is used to represent negative numbers in binary. It is calculated by:
+1. Taking the 1's complement of the number.
+2. Adding `1` to the result.
+
+### Example:
+Binary `1010`:
+1. 1's Complement: `0101`
+2. Add `1`: `0101 + 1 = 0110`
+
+Result: `0110`
+
+---
+
+## Why Learn Binary Numbers?
+
+- **Core to Digital Systems:** Binary numbers are the backbone of computer architecture.
+- **Essential for Programmers:** Understanding binary helps in debugging and optimizing code.
+- **Enhances Problem Solving:** Builds foundational skills for solving complex computational problems.
+
+---
+
+## Repository Contents
+
+- `examples/`: Binary-to-decimal and decimal-to-binary conversion scripts.
+- `resources/`: Links to additional learning materials and tutorials.
+- `exercises/`: Practice problems to solidify your understanding.
+
+---
+
+## Contributing
+
+Contributions are always welcome! If you have ideas for improvements or additional examples, feel free to fork this repository and submit a pull request.
+
+---
+
+## Acknowledgments
+
+This guide is inspired by the video tutorial by [YouTube Channel](https://youtu.be/xpy5NXiBFvA?si=giIrH8r4HLpjZEcK). Special thanks to the creator for providing such an insightful explanation.
+
+---
+
+### ⭐ Don’t forget to star this repository if you found it helpful!
