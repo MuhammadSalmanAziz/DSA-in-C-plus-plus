@@ -12,6 +12,7 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
   - [Why Learn DSA in C++?](#why-learn-dsa-in-c)
   - [Data Structures](#data-structures)
     - [Linear Data Structures:](#linear-data-structures)
+  - [}\`\`\`](#)
 
 ---
 
@@ -35,7 +36,11 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
 ## Data Structures
 
 ### Linear Data Structures:
-1. **Arrays**  
+1. **Arrays**
+   - Fixed-size collections of elements stored in contiguous memory locations.
+   - Ideal for fast data retrieval using indices.
+   - **Use Case:** Storing and accessing elements with constant time complexity.
+
    Example: Find the maximum element in an array.  
    ```cpp
    #include <iostream>
@@ -50,4 +55,5 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
        }
        cout << "Maximum Element: " << max << endl;
        return 0;
-   }
+   }```
+---
