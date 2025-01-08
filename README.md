@@ -12,7 +12,6 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
   - [Why Learn DSA in C++?](#why-learn-dsa-in-c)
   - [Data Structures](#data-structures)
     - [Linear Data Structures:](#linear-data-structures)
-  - [}\`\`\`](#)
 
 ---
 
@@ -56,4 +55,10 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
        cout << "Maximum Element: " << max << endl;
        return 0;
    }```
+
+2. **Linked List**  
+   - A collection of nodes where each node points to the next.
+   - Dynamic in size, making them efficient for insertions and deletions.
+   - **Use Case:** Implementing stacks, queues, or memory-efficient lists.
+
 ---
