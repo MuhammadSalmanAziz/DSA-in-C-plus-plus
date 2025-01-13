@@ -61,4 +61,9 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Dynamic in size, making them efficient for insertions and deletions.
    - **Use Case:** Implementing stacks, queues, or memory-efficient lists.
 
+
+3. **Stack**  
+   - A last-in, first-out (LIFO) data structure.
+   - Operations: `push()`, `pop()`, and `peek()`.
+   - **Use Case:** Undo functionality in applications, expression evaluation.
 ---
