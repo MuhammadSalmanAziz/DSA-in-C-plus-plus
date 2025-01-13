@@ -66,4 +66,9 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - A last-in, first-out (LIFO) data structure.
    - Operations: `push()`, `pop()`, and `peek()`.
    - **Use Case:** Undo functionality in applications, expression evaluation.
+  
+4. **Queue**  
+   - A first-in, first-out (FIFO) data structure.
+   - Types: Simple queue, circular queue, and priority queue.
+   - **Use Case:** Task scheduling and handling asynchronous requests.
 ---
