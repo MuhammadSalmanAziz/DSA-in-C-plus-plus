@@ -71,4 +71,8 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - A first-in, first-out (FIFO) data structure.
    - Types: Simple queue, circular queue, and priority queue.
    - **Use Case:** Task scheduling and handling asynchronous requests.
+  
+5. **Deque (Double-Ended Queue)**  
+   - A generalized version of the queue where elements can be added or removed from both ends.
+   - **Use Case:** Sliding window problems and deque-based optimizations.
 ---
