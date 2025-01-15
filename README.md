@@ -12,6 +12,7 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
   - [Why Learn DSA in C++?](#why-learn-dsa-in-c)
   - [Data Structures](#data-structures)
     - [Linear Data Structures:](#linear-data-structures)
+    - [Non-Linear Data Structures:](#non-linear-data-structures)
 
 ---
 
@@ -76,3 +77,8 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - A generalized version of the queue where elements can be added or removed from both ends.
    - **Use Case:** Sliding window problems and deque-based optimizations.
 ---
+### Non-Linear Data Structures:
+1. **Trees**  
+   - Hierarchical data structures with nodes connected by edges.
+   - Special Types: Binary Tree, Binary Search Tree (BST), AVL Tree, etc.
+   - **Use Case:** Representing hierarchical data like file systems, XML, and JSON parsing.
