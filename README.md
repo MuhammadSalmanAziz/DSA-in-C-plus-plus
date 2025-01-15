@@ -82,3 +82,7 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Hierarchical data structures with nodes connected by edges.
    - Special Types: Binary Tree, Binary Search Tree (BST), AVL Tree, etc.
    - **Use Case:** Representing hierarchical data like file systems, XML, and JSON parsing.
+2. **Graphs**  
+   - A set of vertices connected by edges.
+   - Represented as adjacency matrices or adjacency lists.
+   - **Use Case:** Networking, shortest path problems, and social network modeling.
