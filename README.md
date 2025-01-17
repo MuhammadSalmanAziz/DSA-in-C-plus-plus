@@ -90,3 +90,7 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Specialized tree-based data structures used for priority queue operations.
    - Types: Min-Heap (smallest element at the root) and Max-Heap (largest element at the root).
    - **Use Case:** Implementing heapsort, priority queues, and scheduling tasks.
+
+4. **Tries (Prefix Trees)**  
+   - A tree-like data structure used for efficient retrieval of keys in a dataset.
+   - **Use Case:** Autocomplete systems, dictionaries, and spell checkers.
