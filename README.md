@@ -13,6 +13,7 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
   - [Data Structures](#data-structures)
     - [Linear Data Structures:](#linear-data-structures)
     - [Non-Linear Data Structures:](#non-linear-data-structures)
+  - [Algorithms](#algorithms)
 
 ---
 
@@ -94,3 +95,5 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
 4. **Tries (Prefix Trees)**  
    - A tree-like data structure used for efficient retrieval of keys in a dataset.
    - **Use Case:** Autocomplete systems, dictionaries, and spell checkers.
+---
+## Algorithms
