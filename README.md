@@ -14,6 +14,7 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
     - [Linear Data Structures:](#linear-data-structures)
     - [Non-Linear Data Structures:](#non-linear-data-structures)
   - [Algorithms](#algorithms)
+    - [Searching Algorithms:](#searching-algorithms)
 
 ---
 
@@ -97,3 +98,8 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - **Use Case:** Autocomplete systems, dictionaries, and spell checkers.
 ---
 ## Algorithms
+
+
+### Searching Algorithms:
+1. **Linear Search**  
+   - Sequentially checks each element in the list.
