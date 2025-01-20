@@ -103,3 +103,5 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
 ### Searching Algorithms:
 1. **Linear Search**  
    - Sequentially checks each element in the list.
+2. **Binary Search**  
+   - Efficient for sorted lists by dividing the search space in half.
