@@ -15,6 +15,7 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
     - [Non-Linear Data Structures:](#non-linear-data-structures)
   - [Algorithms](#algorithms)
     - [Searching Algorithms:](#searching-algorithms)
+    - [Sorting Algorithms:](#sorting-algorithms)
 
 ---
 
@@ -105,3 +106,5 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Sequentially checks each element in the list.
 2. **Binary Search**  
    - Efficient for sorted lists by dividing the search space in half.
+
+### Sorting Algorithms:
