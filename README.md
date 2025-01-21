@@ -108,3 +108,7 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Efficient for sorted lists by dividing the search space in half.
 
 ### Sorting Algorithms:
+1. **Bubble Sort**  
+   - Repeatedly swaps adjacent elements if they are in the wrong order.
+2. **Merge Sort**  
+   - Divides the array into halves, sorts each half, and merges them.
