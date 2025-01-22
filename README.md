@@ -113,5 +113,7 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Repeatedly swaps adjacent elements if they are in the wrong order.
 2. **Merge Sort**  
    - Divides the array into halves, sorts each half, and merges them.
+3. **Quick Sort**  
+   - Selects a pivot element and partitions the array around it.
 ### Divide and Conquer:
 - Breaks down problems into smaller sub-problems, solves them, and combines the results.
