@@ -16,6 +16,7 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
   - [Algorithms](#algorithms)
     - [Searching Algorithms:](#searching-algorithms)
     - [Sorting Algorithms:](#sorting-algorithms)
+    - [Divide and Conquer:](#divide-and-conquer)
 
 ---
 
@@ -112,3 +113,5 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Repeatedly swaps adjacent elements if they are in the wrong order.
 2. **Merge Sort**  
    - Divides the array into halves, sorts each half, and merges them.
+### Divide and Conquer:
+- Breaks down problems into smaller sub-problems, solves them, and combines the results.
