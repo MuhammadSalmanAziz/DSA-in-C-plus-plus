@@ -17,6 +17,7 @@ Welcome to the **Data Structures and Algorithms (DSA) in C++** repository! This 
     - [Searching Algorithms:](#searching-algorithms)
     - [Sorting Algorithms:](#sorting-algorithms)
     - [Divide and Conquer:](#divide-and-conquer)
+    - [Greedy Algorithms:](#greedy-algorithms)
 
 ---
 
@@ -117,3 +118,6 @@ Data Structures and Algorithms (DSA) are the backbone of computer science and so
    - Selects a pivot element and partitions the array around it.
 ### Divide and Conquer:
 - Breaks down problems into smaller sub-problems, solves them, and combines the results.
+### Greedy Algorithms:
+- Makes locally optimal choices to arrive at the global optimum.
+- Examples: Kruskal’s Algorithm, Dijkstra’s Algorithm.
