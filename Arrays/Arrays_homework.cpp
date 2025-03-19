@@ -19,13 +19,14 @@ int producArr(int arr[], int size)
         product *= arr[i];
     }
     return product;
-     // int nums[5] = {1, 2, 3, 4, 5};
+    // int nums[5] = {1, 2, 3, 4, 5};
     // int size = 5;
     // cout << "The sum of nums is " << sumArr(nums, size) << endl;
     // cout << "The Product of nums is " << producArr(nums, size);
 }
 
-void larget_smallest_num_and_indexes(){
+void larget_smallest_num_and_indexes()
+{
     int smallest = INT_MAX;
     int largest = INT_MIN;
     int smallest_index = 0;
@@ -53,11 +54,29 @@ void larget_smallest_num_and_indexes(){
     cout << "The largest num in array = " << largest << endl;
     cout << "The largest number index in array =  " << largest_index << endl;
 }
+void unique_values()
+{
+    int size = 9;
+    int nums[size] = {1, 2, 4, 2, 1, 4, 5, 2, 2, 2};
 
-
+    for (int i = 0; i < size; i++)
+    {
+        int j;
+        for (j = 0; j < i; j++)
+        {
+            if (nums[i] == nums[j])
+            {
+                break;
+            }
+        }
+        if (i == j)
+        {
+            cout << nums[i];
+        }
+    }
+}
 int main()
 {
-  
-   
+
     return 0;
 }
