@@ -24,7 +24,7 @@ void reverse_vec(vector<int>&vec){
     // }
 }
 
-int main(){
+void reverse_vec(){
     vector<int> vec = {1,2,3};
     // int target = 2;
     // int res = linear_search(vec,vec.size(),target);
@@ -33,5 +33,8 @@ int main(){
     for(int val : vec){
         cout<<val;
     }
+}
+int main(){
+    
 
 }
